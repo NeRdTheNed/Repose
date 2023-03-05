@@ -1,5 +1,6 @@
 #pragma once
 
+#include <vector>
 #include "TileExtent.h"
 #include "Plant.h"
 
